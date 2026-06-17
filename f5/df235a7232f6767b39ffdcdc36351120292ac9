@@ -1,0 +1,14 @@
+apps/frontend/src/components/common/ThemeAwareLogo.tsx
+  h_6d5343ac20cc6e 13-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.17-trip",
+  "base_commit_sha": "f5df235a7232f6767b39ffdcdc36351120292ac9",
+  "prompts": {},
+  "humans": {
+    "h_6d5343ac20cc6e": {
+      "author": "qiongwenliu <qiongwenliu@trip.com>"
+    }
+  }
+}
