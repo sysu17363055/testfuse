@@ -10,8 +10,8 @@ export default function ThemeAwareLogo() {
 
   const logoSrc =
     mode === 'dark'
-      ? '/logos/rhesis-logo-platypus-dark-white.png'
-      : '/logos/rhesis-logo-website-white-font.png';
+      ? '/logos/testfuse-logo-platypus-dark-white.png'
+      : '/logos/testfuse-logo-website-white-font.png';
 
   return (
     <Box sx={{ display: 'flex', alignItems: 'center', height: '100%' }}>
